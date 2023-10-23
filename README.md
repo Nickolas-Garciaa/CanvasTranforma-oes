@@ -1,5 +1,9 @@
 # CanvasTranformaçoes
 <h1>Feito por:Nickolas Garcia e Pedro Ferraz
+<h1>Cena</h1>
+A nossa cena é bem minimalista com somente um quadro verde, porém, com somente ele já conseguimos fazer todas as transformações<br>
+Ele se move com as setinhas do teclado e possui uma colisão em torno do canva para impedir que ele saia cena, e para fazer as transformações só é necessario apertar as teclas 1 ao 5
+  
 <h1>Explicação de cada transformações</h1>
 
 <h2>Translação:</h2><br>
